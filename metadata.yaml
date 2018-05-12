@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '892'
     url: http://www.gutenberg.org/2009/agents/892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13170#The-Lake-of-the-SkyLake-Tahoe-in-the-High-Sierras-of-California-and-Nevada-its-History-Indian_
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2004-08-13'
 gutenberg_type: Text
