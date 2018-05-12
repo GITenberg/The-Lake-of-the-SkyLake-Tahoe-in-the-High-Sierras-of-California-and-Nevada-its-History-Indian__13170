@@ -1,0 +1,38 @@
+_repo: The-Lake-of-the-SkyLake-Tahoe-in-the-High-Sierras-of-California-and-Nevada-its-History-Indian__13170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, George Wharton
+    alias: James, G. Wharton (George Wharton)
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '892'
+    url: http://www.gutenberg.org/2009/agents/892
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tahoe, Lake (Calif. and Nev.)'
+- !lcsh 'Tahoe National Forest (Calif.)'
+- !lcc 'F850.5'
+- !lcsh 'Washoe Indians'
+title: 'The Lake of the Sky
+
+  Lake Tahoe in the High Sierras of California and Nevada, its History, Indians, Discovery
+  by Frémont, Legendary Lore, Various Namings, Physical Characteristics, Glacial Phenomena,
+  Geology, Single Outlet, Automobile Routes, Historic Towns, Early Mining Excitements,
+  Steamer Ride, Mineral Springs, Mountain and Lake Resorts, Trail and Camping Out
+  Trips, Summer Residences, Fishing, Hunting, Flowers, Birds, Animals, Trees, and
+  Chaparral, with a Full Account of the Tahoe National Forest, the Public Use of the
+  Water of Lake Tahoe and Much Other Interesting Matter'
+url: http://www.gutenberg.org/ebooks/13170
